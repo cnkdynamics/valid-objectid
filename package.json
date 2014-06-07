@@ -8,10 +8,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://ckdynamics@bitbucket.org/ckdynamics/valid-objectid.git"
+		"url": "https://github.com/frlorenzo/valid-objectid.git"
 	},
 	"keywords": [
-		"mongodb",
+		"mongoose",
 		"ObjectId",
 		"_id",
 		"validity"

@@ -2,8 +2,7 @@
 
 Test validity of mongoose ObjectId as string.
 
-Moongoose uses type casting to handle MongDBs ObjectId as a string literal.  
-The `isValid` function returns `true` if valid. Else, returns `false`. The `isValid` function requires `string` parameter.
+Moongoose uses type casting to handle MongDBs ObjectId as a string literal.  The `isValid` function returns `true` if valid. Else, returns `false`. The `isValid` function requires `string` parameter.  
 
 
 ## Installation
