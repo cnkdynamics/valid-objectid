@@ -14,7 +14,7 @@
 		"mongoose",
 		"ObjectId",
 		"_id",
-		"validity"
+		"validation"
 	],
 	"author": "Felipe Lorenzo",
 	"license": "MIT",
