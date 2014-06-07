@@ -1,0 +1,25 @@
+{
+	"name": "valid-objectid",
+	"version": "0.0.1",
+	"description": "Test validity of mongodb ObjectId as string.",
+	"main": "index.js",
+	"scripts": {
+		"test": "node_modules/.bin/mocha --reporter spec test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://ckdynamics@bitbucket.org/ckdynamics/valid-objectid.git"
+	},
+	"keywords": [
+		"mongodb",
+		"ObjectId",
+		"_id",
+		"validity"
+	],
+	"author": "Felipe Lorenzo",
+	"license": "MIT",
+	"devDependencies": {
+		"expect.js": "^0.3.1",
+		"mocha": "^1.20.1"
+	}
+}
