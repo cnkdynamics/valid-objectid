@@ -47,7 +47,7 @@ npm test
 
 ## License
 
-Copyright (c) 2013 Felipe Lorenzo &lt;frlorenzo@ckdynamics.com.ph&gt;
+Copyright (c) [2016 CNK Business Dynamics Co.](www.cnkdynamics.com)
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

@@ -1,6 +1,6 @@
 {
 	"name": "valid-objectid",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Test validity of mongodb ObjectId as string.",
 	"main": "index.js",
 	"scripts": {
@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/frlorenzo/valid-objectid.git"
+		"url": "https://github.com/cnkdynamics/valid-objectid.git"
 	},
 	"keywords": [
 		"mongoose",
@@ -16,7 +16,7 @@
 		"_id",
 		"validation"
 	],
-	"author": "Felipe Lorenzo",
+	"author": "frlorenzo@cnkdynamics.com",
 	"license": "MIT",
 	"devDependencies": {
 		"expect.js": "^0.3.1",
